@@ -1,0 +1,36 @@
+/*!
+ * Alpha Theme v1.0.0 (https://github.com/Mindula-Dilthushan/Alpha-Theme/)
+ * Copyright 2022 The Alpha Theme Author (https://github.com/Mindula-Dilthushan)
+ * Licensed under MIT (https://github.com/Mindula-Dilthushan/Alpha-Theme/blob/master/LICENSE)
+ */
+
+/*Display ------------------------------------------------------------------------------------------------------------*/
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.d-justify-center {
+    justify-content: center;
+}
+
+.d-align-item-center {
+    align-items: center;
+}
+
+.f-dir-col {
+    flex-direction: column;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.h-100 {
+    height: 100%;
+}
